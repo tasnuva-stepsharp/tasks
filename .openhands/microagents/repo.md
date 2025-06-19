@@ -1,6 +1,6 @@
 # OpenHands Repo Guidelines
 
-This project is a Go-based backend using GORM, Echo, and PostgreSQL. All features must adhere to the clean architecture pattern.
+This project is a Go-based backend using GORM, gin, and PostgreSQL. All features must adhere to the clean architecture pattern.
 
 ## Standards
 - Use Swagger for API documentation.
